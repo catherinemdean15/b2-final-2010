@@ -17,69 +17,26 @@
           null
         ]
       },
-      "/Users/catherinedean/Turing/mod_2/independent_challenges/b2-final-2010/spec/models/competitions_team_spec.rb": {
+      "/Users/catherinedean/Turing/mod_2/independent_challenges/b2-final-2010/app/controllers/competitions_controller.rb": {
         "lines": [
-          1,
-          null,
           1,
           1,
           2,
-          2,
           null,
-          null
-        ]
-      },
-      "/Users/catherinedean/Turing/mod_2/independent_challenges/b2-final-2010/app/models/competitions_team.rb": {
-        "lines": [
-          1,
+          null,
           1,
           1,
           null,
           null
         ]
       },
-      "/Users/catherinedean/Turing/mod_2/independent_challenges/b2-final-2010/spec/models/player_spec.rb": {
+      "/Users/catherinedean/Turing/mod_2/independent_challenges/b2-final-2010/app/controllers/application_controller.rb": {
         "lines": [
           1,
-          null,
-          1,
-          1,
-          2,
-          null,
-          null
-        ]
-      },
-      "/Users/catherinedean/Turing/mod_2/independent_challenges/b2-final-2010/app/models/player.rb": {
-        "lines": [
-          1,
-          1,
-          null
-        ]
-      },
-      "/Users/catherinedean/Turing/mod_2/independent_challenges/b2-final-2010/spec/models/team_spec.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          1,
-          2,
-          2,
-          2,
-          null,
-          null
-        ]
-      },
-      "/Users/catherinedean/Turing/mod_2/independent_challenges/b2-final-2010/app/models/team.rb": {
-        "lines": [
-          1,
-          1,
-          1,
-          1,
-          null,
           null
         ]
       }
     },
-    "timestamp": 1611073376
+    "timestamp": 1611074048
   }
 }
