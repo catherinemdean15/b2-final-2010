@@ -1,94 +1,6 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/catherinedean/Turing/mod_2/independent_challenges/b2-final-2010/spec/features/competitions/show_spec.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          1,
-          4,
-          4,
-          null,
-          4,
-          4,
-          4,
-          null,
-          4,
-          4,
-          4,
-          4,
-          4,
-          4,
-          null,
-          4,
-          null,
-          null,
-          1,
-          1,
-          1,
-          1,
-          null,
-          1,
-          1,
-          1,
-          null,
-          null,
-          1,
-          1,
-          1,
-          null,
-          1,
-          1,
-          null,
-          1,
-          1,
-          null,
-          null,
-          1,
-          1,
-          null,
-          null,
-          1,
-          1,
-          1,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/catherinedean/Turing/mod_2/independent_challenges/b2-final-2010/spec/models/competition_spec.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          1,
-          2,
-          2,
-          null,
-          null,
-          1,
-          1,
-          1,
-          1,
-          null,
-          1,
-          1,
-          1,
-          null,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
-          null,
-          1,
-          null,
-          null,
-          null
-        ]
-      },
       "/Users/catherinedean/Turing/mod_2/independent_challenges/b2-final-2010/app/models/competition.rb": {
         "lines": [
           1,
@@ -96,7 +8,7 @@
           1,
           null,
           1,
-          7,
+          2,
           null,
           null
         ]
@@ -108,15 +20,23 @@
           null
         ]
       },
-      "/Users/catherinedean/Turing/mod_2/independent_challenges/b2-final-2010/spec/models/competitions_team_spec.rb": {
+      "/Users/catherinedean/Turing/mod_2/independent_challenges/b2-final-2010/app/controllers/competitions_controller.rb": {
         "lines": [
           1,
-          null,
           1,
+          0,
+          null,
+          null,
           1,
           2,
           2,
           null,
+          null
+        ]
+      },
+      "/Users/catherinedean/Turing/mod_2/independent_challenges/b2-final-2010/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
           null
         ]
       },
@@ -125,37 +45,6 @@
           1,
           1,
           1,
-          null,
-          null
-        ]
-      },
-      "/Users/catherinedean/Turing/mod_2/independent_challenges/b2-final-2010/spec/models/player_spec.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          1,
-          2,
-          null,
-          null
-        ]
-      },
-      "/Users/catherinedean/Turing/mod_2/independent_challenges/b2-final-2010/app/models/player.rb": {
-        "lines": [
-          1,
-          1,
-          null
-        ]
-      },
-      "/Users/catherinedean/Turing/mod_2/independent_challenges/b2-final-2010/spec/models/team_spec.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          1,
-          2,
-          2,
-          2,
           null,
           null
         ]
@@ -170,22 +59,9 @@
           null
         ]
       },
-      "/Users/catherinedean/Turing/mod_2/independent_challenges/b2-final-2010/app/controllers/competitions_controller.rb": {
+      "/Users/catherinedean/Turing/mod_2/independent_challenges/b2-final-2010/app/models/player.rb": {
         "lines": [
           1,
-          1,
-          2,
-          null,
-          null,
-          1,
-          5,
-          5,
-          null,
-          null
-        ]
-      },
-      "/Users/catherinedean/Turing/mod_2/independent_challenges/b2-final-2010/app/controllers/application_controller.rb": {
-        "lines": [
           1,
           null
         ]
@@ -195,12 +71,29 @@
           1,
           1,
           null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          2,
           null,
           null,
           null
         ]
       }
     },
-    "timestamp": 1611076142
+    "timestamp": 1611077338
   }
 }
