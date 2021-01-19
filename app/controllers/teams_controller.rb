@@ -1,5 +1,9 @@
 class TeamsController < ApplicationController
-  before_action :find_competition
+  before_action :find_competition, only: [:new, :create]
+
+  def index
+    @teams = Team.average_player_age
+  end
 
   def new
 
